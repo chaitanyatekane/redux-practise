@@ -1,3 +1,4 @@
 ### React Redux Practise
 
-- npm install redux react-redux
+- npm install react-redux
+- npm install redux redux-thunk
